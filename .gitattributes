@@ -1,0 +1,7 @@
+public/earth/earth2.glb filter=lfs diff=lfs merge=lfs -text
+public/saturn.glb filter=lfs diff=lfs merge=lfs -text
+public/**/*.glb filter=lfs diff=lfs merge=lfs -text
+public/saturn.glb
+ filter=lfs diff=lfs merge=lfs -text
+public/saturn.glb
+ filter=lfs diff=lfs merge=lfs -text
